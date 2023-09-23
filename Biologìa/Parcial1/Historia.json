@@ -1,0 +1,55 @@
+{ 
+    "linea": [
+        {
+            "fecha": 200,
+            "logros": ["Galeno hace aportaciones importantes a la anatomia"]
+        },
+        {
+            "fecha": 1665,
+            "logros": ["Robert Hook Observo tejidos vegetales y descrubio la celula"]
+        }, 
+        {
+            "fecha": 1650,
+            "logros": ["anton van leeuwenhoek observo protozoos y globulos rojos"]
+        },
+        {
+            "fecha": 1753,
+            "logros": ["Carl Linnaeus clasifica a los seres vivos en reinos y especies"]
+        },
+        {
+            "fecha": 1769,
+            "logros": ["Lazzaro confirma que los unicelulares son seres vivos"]
+        },
+        {
+            "fecha": 1859,
+            "logros": ["Charles Darwin crea la teoria de la evolucion"]
+        },
+        {
+            "fecha":1864,
+            "logros": [ "Lois Pasteour crea la teoria de germenes", 
+                        "Lois Pasteour crea la pasteurizacion", 
+                        "Lois Pasteur crea vacunas"
+                    ]
+        },
+        {
+            "fecha": 1910,
+            "logros": ["Thomas Morgan descubre la herencia ligada al sexo"]
+        },
+        {
+            "fecha": 1915,
+            "logros": ["Alfonso Luis Herrera investiga el origen de la vida"]
+        },
+        {
+            "fecha": 1924,
+            "logros": ["Teofilo Herrera funda la seccion de Macromicetos"]
+        },
+        {
+            "fecha": 1954,
+            "logros": ["Watson Y Crick descubren la estructura del ADN"]
+        },
+        {
+            "fecha": 1960,
+            "logros": ["Lynn Margulis crea la teoria endosimbiotica, que propone que  las celulas eucariontes vienen de la combinacion de varias procariontes"]
+        }
+    ]
+}
