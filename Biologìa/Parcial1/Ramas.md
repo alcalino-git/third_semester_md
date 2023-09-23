@@ -174,4 +174,4 @@ Moluscos en general
 ## Primatología: 
 Evolución, conducta y biología de los primates
 
-![|200](https://www.fundacioudg.org/img/image/fotos/primatologia2_1_1.jpg?w=495&h=330&zc=1&aoe=1&q=80)
+![primates|200](https://www.fundacioudg.org/img/image/fotos/primatologia2_1_1.jpg?w=495&h=330&zc=1&aoe=1&q=80)
