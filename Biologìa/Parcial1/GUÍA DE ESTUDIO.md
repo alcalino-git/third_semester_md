@@ -100,7 +100,7 @@ Qué hizo Walter Sutton?
 Qué hizo Thomas Morgan?  
 1933: Descubre la herencia ligada al sexo
 
-Qué hizo  Alfonso Luis Herrera?
+Qué hizo  Alfonso Luis Herrera?  
 1954: Investiga el origen de la vida y fundó el jardín Botánico del Bosque de Chapultepec
 
 Qué hicieron Watson Y Crick?  
