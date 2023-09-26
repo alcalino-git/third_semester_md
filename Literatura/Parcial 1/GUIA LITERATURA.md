@@ -204,7 +204,7 @@ Del siglo XVI al XIX en Europa, empezando por Italia
 - La mujer
 - Soledad
 
-**Qué autores famosos tuvo el Romanticismo?**
+**Qué autores famosos tuvo el Realismo?**
 - Honoré de Balzac
 - Mariano Azuela
 - Benito Pérez Galdós
@@ -263,7 +263,19 @@ De principios a mediados del siglo XX
 - Blas de Otero
 - José Hierro
 
-(No vimos nada de la generación del 98)
+**Qué caracterizaba a la generación del 98?**
+- Abunda el escepticismo
+- Mayor importancia a la idea que a la expresión
+- Estilo moderado y fácil de entender
+- Búsqueda de Dios
+
+**Quiénes representaron a la generación del 98?**
+- Miguel de Unamuno
+- José Martinez Buiz
+- Pío Barroja
+- Antonio Machado
+- Ramón María del Valle Inclán
+
 
 
 
