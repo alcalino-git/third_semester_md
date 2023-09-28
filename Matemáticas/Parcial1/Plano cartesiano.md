@@ -4,7 +4,9 @@
 
 El plano cartesiano es un sistema en el cual se pueden ubicar puntos en base al sistema de coordenadas cartesianas, compuesto por dos ejes perpendiculares: el eje X (horizontal) y el eje Y (vertical).
 
-![plano | 400](https://s1.significados.com/foto/coordenadas_bg.JPG)
+Un lugar geométrico es un conjunto de puntos que cumples una determinada condición 
+
+![plano | 200](https://s1.significados.com/foto/coordenadas_bg.JPG)
 
 Cada punto en el plano cartesiano corresponde a una coordenada X y una coordenada Y
 

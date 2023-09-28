@@ -11,7 +11,7 @@ El señorío predominante en este tiempo era el de Azcapotzalco, del cual fueron
 
 ## La triple alianza
 
-Más adelante los mexicas se aprovecharon del rencor de otros pueblos para rebelarse en su contra y aliarse con el señorío de Tlacopan y el señorío de Texcoco, lo que pasó a llamarse la triple alianza en 1428 entre México-Tenochtitlán, Texcoco y Tlacopan. ç
+Más adelante los mexicas se aprovecharon del rencor de otros pueblos para rebelarse en su contra y aliarse con el señorío de Tlacopan y el señorío de Texcoco, lo que pasó a llamarse la triple alianza en 1428 entre México-Tenochtitlán, Texcoco y Tlacopan.
 
 Esto permitió consolidar el imperio que comenzaría su expansión hacia regiones alejadas en la cuenca de México, administrar las rutas comerciales de meso-américa e imponer su hegemonía (dominio), de modo que recibían tributos de otras civilizaciones y podían obligarlos a participar en guerras o tomarlos para sacrificios sagrados, mientras que los pueblos dominados mantenían su autonomía política y social.
 

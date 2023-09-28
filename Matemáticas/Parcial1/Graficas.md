@@ -27,3 +27,5 @@
 # Periodo
 **Periódica**: funciones que se comportan en una manera cíclica (repetitiva) sobre un intervalo especificado. $f(x + P) = f(x)$ para todos los valores de X. $f(x) = f(x + nk)$ donde k es un entero que especifica un periodo y n es un natural. Ej: Funciones trigonométricas  
 ![|200](https://www.varsitytutors.com/assets/vt-hotmath-legacy/hotmath_help/topics/periodic-functions/periodic-functions-image001.gif)
+
+
