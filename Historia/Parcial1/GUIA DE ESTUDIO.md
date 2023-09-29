@@ -149,7 +149,7 @@ Más de 340
 ## Dioses
 
 ¿Cuál fue el rol de Xipe Totec?  
-- Dios de la renovación, la regeneración y la fertilidad. 
+- Dios de la agricultura, vegetación, las enfermedades y los orfebres. 
 - Su culto estaba asociado con rituales que implicaban el degollamiento de prisioneros como parte de rituales agrícolas.
 
 ¿Cuál fue el rol de Tlaloc?  
@@ -158,7 +158,7 @@ Más de 340
 - Tenia lluvia de fuego y normal
 
 ¿Cuál fue el rol de La Gran Diosa (Mujer Araña)?  
-- Estaba relacionada con la fertilidad, el parto, la purificación y la sexualidad. 
+- Diosa de la fertilidad y de la vegetación 
 
 ¿Cuál fue el rol de Quetzalcoatl?  
 - Dios de la sabiduría, el conocimiento, la cultura y el viento. 
