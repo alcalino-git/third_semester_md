@@ -96,3 +96,63 @@ Género en que el autor expresa sentimientos o emociones en verso o prosa median
 - Los himnos a la noche (1800) del poeta alemán Novalis (1772-1801).
 - In principio erat verbum del poeta y religioso español San Juan de la Cruz (1542-1591).
 
+# Género Dramático
+Proviene de la palabra drama y es la generación literaria que se escribe para ser representada
+
+**características:**
+- Representada
+- No usa un narrador
+- Require actores
+- Espacio Y tiempo delimitados
+- Estilo directo
+- Acotaciones
+
+**Estructura**
+- Interna
+	- Inicio
+	- Nudo
+	- Desenlace
+- Externa
+	- Actores
+	- Escenas
+	- Cuadro
+	- Acotaciones
+	- Entorno
+
+**Temas**
+- Tragedia
+- Comedia
+- Pieza
+- Melodramática
+- Farsa
+
+**Autores**
+- Federico Garcia Lorca
+- William Shakespare
+- Pedro Calderón
+
+# Ensayo Literario
+Tipo de ensayo que se enfoca en la literatura
+
+**Características**
+- Prosa
+- Breve
+- Temas relevantes
+- Personal
+- Actitud abierta
+- Atraer lectores
+- Subjetivos
+- Argumentativo
+- Temas diversos
+
+**Estructura**
+- Introducción: Explica y define el tema
+- Desarrollo: Punto de vista y argumentos del autor
+- Conclusión: Cierra el tema y da su aportación
+
+**Pasos**
+- Elección del tema
+- Documentación
+- Preparación
+- Redacción
+
