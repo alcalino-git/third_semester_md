@@ -61,7 +61,7 @@ Cómo se divide la trama?
 - Desenlace
 	- Se resuelve el conflicto y finaliza la historia
 
-Qué tipos de personaje existen?
+Qué tipos de personaje existen?  
 - Protagonista:
 	- Personaje principal alrededor del cual se desarrolla la historia
 - Antagonista
