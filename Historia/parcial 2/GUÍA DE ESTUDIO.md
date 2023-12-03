@@ -123,8 +123,14 @@ Moctezuma y Cuauhtémoc
 Cuál fue el primer confronta-miento de Cortés con los Mexicas?
 La batalla de Centla
 
-Qué hicieron los españoles con Moctezuma?
-Lo secuestraron en su palacio
+Cuando entraron los conquistadores a la ciudad?
+El 8 de noviembre de 1519
+
+Que desató que Cortés tomara a Moctezuma como rehén?
+Un ataque a los Totonacas aliados de Cortés por parte de soldados Mexicas bajo las ordenes de Moctezuma
+
+Qué pasó después de que cortés tomara a Moctezuma como rehén?
+Los sacerdotes y nobles indígenas decidieron exterminar a los españoles
 
 Con quien hizo un trato Moctezuma?
 Los hombres de Velasquez, dirigidos por Pánfilo de narváez
@@ -149,14 +155,5 @@ Por el des-abasto de recursos y las enfermedades traídas por los europeos, tras
 
 Cuándo finalizó la lucha?
 El 13 de agosto de 1521, cuando Cuauhtémoc, ultimo emperador Mexica, fue capturado mientras huia en una canoa
-
-
-
-
-
-
-
-
-
 
 
