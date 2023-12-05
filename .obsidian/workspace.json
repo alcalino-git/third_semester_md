@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologìa/Parcial 3/GUÍA DE ESTUDIO.md",
+                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologìa/Parcial 3/GUÍA DE ESTUDIO.md",
+                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologìa/Parcial 3/GUÍA DE ESTUDIO.md",
+                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologìa/Parcial 3/GUÍA DE ESTUDIO.md"
+                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "e4ffca469324f70e",
   "lastOpenFiles": [
-    "Biologìa/Parcial 2/GUÍA DE ESTUDIO.md",
     "Biologìa/Parcial 3/GUÍA DE ESTUDIO.md",
+    "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
+    "Literatura/Parcial 3",
+    "Biologìa/Parcial 2/GUÍA DE ESTUDIO.md",
     "Historia/parcial 2/GUÍA DE ESTUDIO.md",
     "Biologìa/Parcial 3"
   ]
