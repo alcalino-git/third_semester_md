@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e85764e7a27f17",
+        "id": "036b1d112f691b63",
         "type": "tabs",
         "children": [
           {
-            "id": "e4ffca469324f70e",
+            "id": "de08005be917529e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
+                "file": "Biologìa/GUÍA SEMESTRAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76f34062616dd9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biologìa/Parcial 3/GUÍA DE ESTUDIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34f31adf063050a2",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
+                "file": "Biologìa/GUÍA SEMESTRAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
+                "file": "Biologìa/GUÍA SEMESTRAL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literatura/Parcial 3/GUÍA DE ESTUDIO.md"
+                "file": "Biologìa/GUÍA SEMESTRAL.md"
               }
             }
           }
@@ -146,13 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4ffca469324f70e",
+  "active": "de08005be917529e",
   "lastOpenFiles": [
     "Biologìa/Parcial 3/GUÍA DE ESTUDIO.md",
+    "Biologìa/GUÍA SEMESTRAL.md",
+    "Biologìa/Parcial 2/GUÍA DE ESTUDIO.md",
+    "Biologìa/Parcial1/GUÍA DE ESTUDIO.md",
+    "Historia/parcial 2/GUÍA DE ESTUDIO.md",
     "Literatura/Parcial 3/GUÍA DE ESTUDIO.md",
     "Literatura/Parcial 3",
-    "Biologìa/Parcial 2/GUÍA DE ESTUDIO.md",
-    "Historia/parcial 2/GUÍA DE ESTUDIO.md",
     "Biologìa/Parcial 3"
   ]
 }
