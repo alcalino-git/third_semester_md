@@ -45,6 +45,7 @@ La ciencia cambia, se modifica, transforma y expande con el tiempo
 *ramas de la biología*
 
 *divisiones taxonómicas*
+
 Que estudia la taxonomía?  
 Estudia las clasificación jerárquica y de parentesco de los seres vivos, de acuerdo a sus relaciones de parentesco y su historia evolutiva
 
@@ -190,10 +191,10 @@ Cómo se clasifican?
 	- Proteínas
 	- Ácidos nucleicos 
 
-Cuál es el porcentaje de agua en el cuerpo?
+Cuál es el porcentaje de agua en el cuerpo?  
 Alrededor del 60%
 
-Cuáles son las propiedades del agua?
+Cuáles son las propiedades del agua?  
 - Cohesión
 	- Propiedad por la cual sus moléculas se atraen entre sí, causando la formación de cuerpos de agua
 - Adhesión
@@ -208,28 +209,28 @@ Cuáles son las propiedades del agua?
 Qué son los carbohidratos?   
 Importante macro nutriente obtenido mediante la alimentación
 
-Como se les llama a los carbohidratos?
+Como se les llama a los carbohidratos?  
 - Hidratos de carbono
 - Glucidos
 - Azucares
 
-Cuál es su formula estequiométrica?
+Cuál es su formula estequiométrica?  
 $(CH_2O)n$
 
-Cuáles son sus grupos funcionales?
+Cuáles son sus grupos funcionales?  
 - Grupo Aldehído
 - Grupo Cetona
 
-Cuáles son sus características?
+Cuáles son sus características?  
 - Dulces
 - Liberan energía
 - Forman parte de la célula y el ADN
 
-Cómo se clasifican por su tamaño?
+Cómo se clasifican por su tamaño?  
 - Simples
 - Complejos
 
-Como se clasifican de acuerdo a su complejidad?
+Como se clasifican de acuerdo a su complejidad?  
 - Monosacaridos: 3 a 6 cadenas de carbono
 	- 5C pentosa => {Ribosa, Desoxiribosa}
 	- 6C Hexosa => 
@@ -261,30 +262,30 @@ Como se clasifican de acuerdo a su complejidad?
 	- Quitina:
 		- Componente estructural de insectos, cangrejos y hongos
 
- Qué son los lipidos?
+ Qué son los lipidos?  
  Macro-nutrientes llamados comúnmente como "grasas" que aportan energía de reserva
 
-Qué son los lípidos simples?
+Qué son los lípidos simples?  
 - Enlace sencillo o insaturaado
 - Grasas neutras o trigliceridos
 - Unidos por esteres
 - Grupo funcional carboxilo
 
-Cuáles son los lípidos compuestos?
+Cuáles son los lípidos compuestos?  
 - Fosfolípdios
 - Presentes en la membrana celular
 - Dos colas de ácidos grasos y una cabeza con un grupo fosfato
 
-Cuáles son los lípidos asociados?
-- Insolubles en agua
+Cuáles son los lípidos asociados?  
+- Insolubles en agua 
 - Colesterol y esteroides
 
-Cuáles son las ceras?
+Cuáles son las ceras?  
 - cubre las plumas de algunas aves acuáticas y la superficie de las hojas de algunas planta
 - Hidrofóbico
 - largas cadenas de ácidos grasos unidas a alcoholes
 
-Qué son las proteínas?  
+Qué son las proteínas?    
 Macronutriente de función estructural y funcional en el cuerpo compuesto de aminoácidos
 
 Qué es un aminoácido?  
@@ -307,11 +308,11 @@ Cómo se clasifican?
 	- Grupo R es carboxílico
 	- Glutamato
 
-Cómo se clasifican las proteínas de acuerdo a su origen?
+Cómo se clasifican las proteínas de acuerdo a su origen?  
 - Animal
 - Vegetal
 
-Cómo se clasifican de acuerdo a su forma?
+Cómo se clasifican de acuerdo a su forma?  
 - Fibrosas
 	- Alargadas
 	- Insolubles
@@ -324,7 +325,7 @@ Cómo se clasifican de acuerdo a su forma?
 - Mixtas
 	- Mezcla de fibrosas y globulares
 
-Cuáles son las estructuras de la proteína?
+Cuáles son las estructuras de la proteína?  
 - Primaria: Orden de los aminoácidos de la cadena polipeptídica y los puemtes de disulfuro
 - Secundaria: Forma regular o repetitiva de la cadena (Hélice o hoja plegada)
 - Terciaria: Superplegamiento de la proteína que le da mayor estabilidad mediante enlaces
@@ -336,7 +337,7 @@ Cuáles son las estructuras de la proteína?
 	- Se agrupan en fibrosas y globulares
 - Cuaternaria: La proteína se compone de más de una cadena de aminoácidos. A estas se les denomina oligoméricas
 
-Cuáles son las funciones de la proteína?
+Cuáles son las funciones de la proteína?  
 - Estructural: Colágeno y queratina
 - Movimiento: Actina y miosina
 - Defensa: Anticuerpos
@@ -345,17 +346,17 @@ Cuáles son las funciones de la proteína?
 - Catalizadores: Enzimas digestivas
 - Transportadoras: Hemoglobinas
 
-Qué son los ácidos nucleicos?  
+Qué son los ácidos nucleicos?    
 Macro-moléculas orgánica que sirven como bloque básico del ADN y el ARN
 
-Donde se encuentran?  
+Donde se encuentran?   
 - Nucleo celular
 - Citoplasma
 - Mitocondria
 - Cloroplastos
 - Reticulo endoplasmático
 
-Por qué se componen los ácidos nucleicos?
+Por qué se componen los ácidos nucleicos?  
 Por nucleotidos:
 - Purinas =>
 	- Guanina
@@ -365,12 +366,12 @@ Por nucleotidos:
 	- Citosina 
 	- Uracilo (Solo en el ARN)
 
-Cómo se unen los nucleotidos en el ADN?  
+Cómo se unen los nucleotidos en el ADN?   
 Mediante puentes de hidrógeno, siguiendo el siguiente patron  
 C <=> G  | G <=> C   (3 Puentes)  
 T <=> A   | A <=> T   (2 Puentes)  
 
-Cómo se diferencia el ADN del ARN?
+Cómo se diferencia el ADN del ARN?   
 El ADN se conforma de una doble hélice de nucleotidos unidos mediante puentes hidrógeno, el ARN se conforma de una sola cadena de nucleotidos
 
 
