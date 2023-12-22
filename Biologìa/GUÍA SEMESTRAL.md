@@ -374,6 +374,11 @@ T <=> A   | A <=> T   (2 Puentes)
 Cómo se diferencia el ADN del ARN?   
 El ADN se conforma de una doble hélice de nucleotidos unidos mediante puentes hidrógeno, el ARN se conforma de una sola cadena de nucleotidos
 
+Cuáles son las estructuras del ADN?
+- Primaria: Es la secuencia de nucleotidos del ADN
+- Secundaria: Se refiere a la doble Hélice del ADN 
+- Terciaria: La doble hélice se compacta alrededor de la proteína Histona, unión a la que se denomina "nucleosoma", que al unirse se llaman "cromatinas"
+- Cuaternaria: La cromatina se compacta y enrolla en cromosomas.
 
  
 
